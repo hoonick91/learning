@@ -13,9 +13,8 @@
 
 # 📌 생각없이 글쓰기
 
-- [글을 쓰는 것에 대한 생각](https://github.com/hoonick91/learning/blob/master/opinion/2019.12.13.md)
-- [DAO, REPOSITORY부터 시작된 DDD에 대한 생각](https://github.com/hoonick91/learning/blob/master/opinion/2019.12.13(1).md)
-- [Spring boot Service, ServiceImpl에 대한 생각](https://github.com/hoonick91/learning/blob/master/opinion/2019.12.13(2).md)
+- [DAO, REPOSITORY부터 시작된 DDD에 대한 생각](https://github.com/hoonick91/learning/blob/master/opinion/2019.12.13_DDD.md)
+- [Spring boot Service, ServiceImpl에 대한 생각](https://github.com/hoonick91/learning/blob/master/opinion/2019.12.13_service_serviceImpl.md)
 
 
 
