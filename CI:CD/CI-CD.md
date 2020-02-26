@@ -1,6 +1,6 @@
 ## Jenkins + Gitlab + Nexus
 
-
+0.0.0.0:9022->22/tcp, 0.0.0.0:32769->80/tcp 
 
 ### Jenkins
 
